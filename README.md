@@ -4,7 +4,7 @@
 
 # Check a process is running inside docker container
 
-
+Use this function`IsRunningInDocker` to check process is running inside docker container.
 
 ## Thx
 
